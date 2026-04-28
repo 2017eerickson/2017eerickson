@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2017eerickson" alt="2017eerickson" /></a> </p>
 
-- 🔭 I’m currently working on [Aisle Earthlings](https://github.com/2017eerickson/Aisle_Earthlings)
+- 🔭 I’m currently working on [Aisle Earthlings]([https://github.com/2017eerickson/Aisle_Earthlings](https://github.com/2017eerickson/Aisle-Earthlings))
 
 - 🌱 I’m currently learning **BFS and DFS**
 
