@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Constellate]([[https://github.com/2017eerickson/Aisle_Earthlings](https://github.com/2017eerickson/Constellate)])
 
-- 🌱 I’m currently learning **BFS and DFS**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **2017eerickson@gmail.com**
 
