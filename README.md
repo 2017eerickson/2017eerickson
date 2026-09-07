@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **2017eerickson@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Kor1_jheTAy2sQF0mkNl8v9E30eirhLh8kG61MgTuqg/edit?tab=t.0](https://docs.google.com/document/d/1Kor1_jheTAy2sQF0mkNl8v9E30eirhLh8kG61MgTuqg/edit?tab=t.0)
+- 📄 Know about my experiences https://docs.google.com/document/d/1nhnxF3Fgm1EZcGgexHesxVZ7rpjR-KuTiyWElARJD1k/edit?tab=t.0
 
 - ⚡ Fun fact **I used to be a carpenter 🛠️**
 
